@@ -10,6 +10,8 @@
 
 點擊上方「[修正前後比對](https://github.com/capriciousiblity/ly0517/commits/commit-240517/)」連結或右上角[X Commits](https://github.com/capriciousiblity/ly0517/commits/commit-240517/)即可查看相關法條的修正前後比對。
 
+![操作說明展示動畫](img/HowToUse.gif)
+
 ### 法條瀏覽
 
 點擊[LyLawA0020058.md](LyLawA0020058.md)即可查看修正後之「立法院職權行使法」`（更新中，未完成）`，[LyLawC0000001_05.md](LyLawC0000001_05.md)為刑法第 141 條修正後之條文。
